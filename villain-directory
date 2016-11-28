@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<head>
+    
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <style>
+        body { background-image: url("villain-directory.jpg");
+        color:rgb(232,242,242);}
+        a:link{color:rgb(232,242,242);}
+        a:hover{color:yellow;
+        text-decoration:none;}
+        a:visited{text-decoration:none;}
+        span {display:inline-block;
+        border:3px rgb(232,242,242) double;}
+        .villains {height:40%;
+        width: 500px;
+        overflow:auto;}
+    </style>
+    
+</head>
+<body>
+    <div class="villains">
+    <p>
+        <span class="A letter">
+<b>A</b><br><br>
+Whisper A'Daire<br>
+Abattoir<br>
+Kyle Abbot<br>
+Abner<br>
+Acheron<br>
+Ra's al Ghul<br>
+Talia al Ghul<br>
+Alice<br>
+Alpha<br>
+The Alstairean<br>
+Amygdala<br>
+Anarky<br>
+The Archer<br>
+The Architect<br>
+Arkham Knight<br>
+Jeremiah Arkham<br>
+        </span>
+
+
+        <span class="B letter">
+<b>B</b><br><br>
+Baby Doll<br>
+Bane<br>
+Bane (Batman: Arkham Asylum)<br>
+Bane (Batman: Arkham City)<br>
+Curtis Base<br>
+Basilisk<br>
+Bat-Mite<br>
+Batwoman (Batman: The Brave and the Bold)<br>
+Batzarro<br>
+Bedbug<br>
+Bentley<br>
+Big Top<br>
+Billy Numerous<br>
+Bird<br>
+The Birthday Boy<br>
+Bizarro-Batman<br>
+Black Alice<br>
+Black Mask<br>
+Black Spider (Derrick Coe)<br>
+Black Spider (Eric Needham)<br>
+Black Spider (Johnny LaMonica)<br>
+Black Widow<br>
+Blackbeard<br>
+Blight<br>
+Blitzkrieg<br>
+Blockbuster<br>
+Blockbuster (Mark Desmond)<br>
+Blockbuster (Roland Desmond)<br>
+Blood Tiger<br>
+Bloody Mary<br>
+Bone<br>
+Boneblaster<br>
+The Bouncer<br>
+Ferris Boyle<br>
+Ferris Boyle (DC Animated Universe)<br>
+Briscoe<br>
+The Broker<br>
+Bronze Tiger<br>
+Bruce Wayne (Clone)<br>
+Brutale<br>
+Bud and Lou<br>
+Bureau of Missing Villains<br>
+        </span>
+<br>
+
+        <span class="C letter">
+<b>C</b><br><br>
+David Cain<br>
+Calculator<br>
+Calendar Man<br>
+Calvin City Jokerz<br>
+Captain Stingaree<br>
+Carlo<br>
+Carmine Falcone (Telltale)<br>
+The Carpenter<br>
+Catman<br>
+Catwoman<br>
+Catwoman (Eartha Kitt)<br>
+Catwoman (Julie Newmar)<br>
+The Cavalier<br>
+Chandell<br>
+Charlatan<br>
+Cheshire<br>
+Choke<br>
+Terrence Clark<br>
+Clayface (Basil Karlo)<br>
+Clayface (Matthew Hagen)<br>
+Clayface (Preston Payne)<br>
+Clayface (Sondra Fuller)<br>
+Clayface (Cassius Payne)<br>
+Claything<br>
+Clayface (Todd Russell)<br>
+Clayface (Johnny Williams)<br>
+The Cleaners<br>
+Clock King<br>
+Clock King (Walter Slezak)<br>
+Cluemaster<br>
+Colonel Gumm<br>
+Composite Superman<br>
+Condiment King<br>
+Copperhead<br>
+Cormorant<br>
+Crazy Quilt<br>
+Crazy Quilt II<br>
+Creach (Earth-43)<br>
+Creote<br>
+Crime Doctor (Bradford Thorne)<br>
+The Crusader<br>
+Crux<br>
+        </span>
+
+
+        <span class="D letter">
+<b>D</b><br><br>
+Dagger (David Rennington)<br>
+Dala<br>
+Deacon Blackfire<br>
+Deadshot<br>
+Deathstroke<br>
+Duela Dent<br>
+The Director<br>
+Doctor Aesop<br>
+Doctor Death<br>
+Doctor Double X<br>
+Doctor Hurt<br>
+Doctor Moon<br>
+Doctor Phosphorus<br>
+Doctor Tzin-Tzin<br>
+Jane Doe<br>
+Dollhouse<br>
+Dollmaker<br>
+Dollmaker's Family<br>
+Doodlebug<br>
+Double Dare<br>
+Dracula<br>
+Dracula (Earth-43)<br>
+Dracula (The Batman)<br>
+The Dummy<br>
+        </span>
+<br>
+
+        <span class="E letter">
+<b>E</b><br><br>
+Echo<br>
+Egghead<br>
+Egghead (Vincent Price)<br>
+Electrocutioner<br>
+Emperor Joker<br>
+Enforcer<br>
+Enigma<br>
+E cont.<br>
+The Eraser<br>
+        </span>
+
+        <span class="F letter">
+<b>F</b><br><br>
+Falchion<br>
+Alberto Falcone<br>
+Kitrina Falcone<br>
+Mario Falcone<br>
+False Face<br>
+False Face (Malachi Throne)<br>
+Feedback<br>
+Lord Marmaduke Ffogg<br>
+Film Freak<br>
+Fireball<br>
+Firebug<br>
+Firebug (Harlan Combs)<br>
+Firefly<br>
+Firefly (Ted Carson)<br>
+Rick Flag Jr.<br>
+Flamingo<br>
+Arnold Flass<br>
+Seeder<br>
+Frank Boles<br>
+Freddy the Fence<br>
+Fright<br>
+        </span>
+        <br>
+
+<span class="G letter">
+<b>G</b><br><br>
+Gaggy
+Gearhead
+General Scarr
+Gentleman Ghost
+The Getaway Genius
+Goblin
+James Gordon, Jr.
+Gork
+Karin Grace
+Great White Shark
+Eva Green
+Gretel
+Grey Lora
+Grid
+Solomon Grundy
+        </span>
+
+
+<span class="H letter">
+<b>H</b><br><br>
+Hamilton Hill (Telltale)<br>
+Hammer & Sickle<br>
+Mister Hammer<br>
+Jill Hampton<br>
+Hangman<br>
+Harley Quinn<br>
+Ibn Hassan<br>
+Headhunter<br>
+Hellhound<br>
+The Heretic<br>
+Adolf Hitler<br>
+Holly Wood<br>
+The Hook
+Humpty Dumpty
+Hush
+Hypnotic
+        </span>
+<br>
+
+        <span class="I letter">
+<b>I</b>
+Inque
+        </span>
+
+
+        <span class="J letter">
+<b>J</b>
+Jack-in-the-Box
+Jaculi
+Jaculi II
+Jeannette
+Jerome Valeska
+Jewelee
+Joe Chill
+The Joker (Earth-43)
+Joker King
+<a href="the-joker.html">The Joker</a>
+        </span>
+    </p>
+    </div>
+    
+</body>
+
+</html>
